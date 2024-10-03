@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "445998895525",
+    "project_id": "galt-53dca",
+    "storage_bucket": "galt-53dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445998895525:android:7034782bc489a1534cd84c",
+        "android_client_info": {
+          "package_name": "me.stefanobucci.galt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445998895525-qj94e0b0uid5cj8lba6a4dp3eqk821kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.stefanobucci.galt",
+            "certificate_hash": "f8c53d8f80a19dc27dc6bc1e8e39cdab40e3eaa6"
+          }
+        },
+        {
+          "client_id": "445998895525-39j087cq0bhb5gmc66l7f8ic2320iiqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkG7vbIWH42VSgsRVR9wEW1EQvkzt7qho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445998895525-39j087cq0bhb5gmc66l7f8ic2320iiqr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445998895525-0879svcaoem5jvqbq9k37fe1nqursagd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.stefanobucci.galt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
